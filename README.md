@@ -6,7 +6,6 @@ Sou criativo, motivado, focado e entusiasmado por inovação. Possuo habilidades
 ## Estou estudando
 - Java
 - Spring Boot
-- PHP
 - MySQL
 - Postgre
 - Estrutura de Dados
