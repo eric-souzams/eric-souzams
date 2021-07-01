@@ -9,6 +9,3 @@ Sou criativo, motivado, focado e entusiasmado por inovação. Possuo habilidades
 - Spring Security
 - MySQL / PostgreSQL
 - React
-
-## Minhas contribuições
-[![Eric Magalhaes Github Stats](https://github-readme-stats.vercel.app/api?username=eric-souzams&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true)](https://github.com/eric-souzams)
