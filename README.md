@@ -13,7 +13,7 @@ I am creative, motivated, focused and enthusiastic about innovation.
 ## Detailed information
 
 * **Name**: Éric Magalhães
-* **Age**: 22
+* **Age**: 23
 * **Living in**: Brasília - DF, Brazil
-* **Stack**: Java - Java EE - Spring Boot - Bootstrap - React - Angular - SQL & NoSQL
+* **Stack**: Java - Java EE - Spring Boot - Spring Framework - Bootstrap - React - Angular - SQL
 * **University**: Graduated in Computer Science
